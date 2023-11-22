@@ -1,0 +1,43 @@
+H1 {
+	color:red;
+	background-color:black;
+}
+
+H1,H2,.firstpara {
+	text-align: center;
+}
+#mynavigation {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 20px;
+}
+
+.nav {
+	text-decoration: underline;
+	margin: 50px;
+	color: grey;
+}
+
+.nav:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+.nav:visited {
+	color: green;	
+}
+	
+.titre {
+	text-decoration: underline;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.images {
+	width: 400px;
+	height: 350px;
+	margin: 50px;
+	border-radius: 50px;
+
+}
